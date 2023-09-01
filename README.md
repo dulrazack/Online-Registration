@@ -1,6 +1,6 @@
 # Online Registration System
 
-Welcome to the Online Registration System repository! This project provides a basic web-based registration form for users to sign up on your website.
+Welcome to the Online Registration System repository! This project provides a basic web-based registration form for users to sign up on my website.
 
 ## Table of Contents
 
@@ -23,7 +23,4 @@ The Online Registration System is a simple web application that allows users to 
 
 ## Getting Started
 
-Follow these steps to get the Online Registration System up and running on your local machine:
-
-1. **Clone the repository:**
 
